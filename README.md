@@ -6,7 +6,7 @@ Common Data-Structures implemented in C.
 * Queues  
 <!-- * Linked-List   -->
 <!-- * Graphs   -->
-* Binary Tree  
+* Trees  
 * Heaps  
 <!-- * Hash Map   -->
 
