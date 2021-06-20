@@ -1,5 +1,4 @@
 # Learn DS
-Common Data-Structures implemented in C. 
 
 ## Index  
 * Stacks  
