@@ -23,12 +23,14 @@ void BubbleSort(int arr[],int n){
     printf("\nNumber of Key Swaps: %d ",swap_count);
 
 }
+
 int main(){
-    //int arr[] = {70,46,65,92,15,3};
+    int arr[] = {70,46,65,92,15,3}; 
+    
     // int arr[] = {92,70,65,46,15,3}; // Worst Case
-    int arr[] = {3,15,46,65,70,92}; // Best Case
+    // int arr[] = {3,15,46,65,70,92}; // Best Case
     int n = sizeof(arr) / sizeof(arr[0]);
 
     BubbleSort(arr,n);
-   
+    return 0;
 }

@@ -1,4 +1,3 @@
-// Implement Selection Sort
 #include<stdio.h>
 
 void display(int arr[],int n){
@@ -30,8 +29,11 @@ void SelectSort(int arr[],int n){
 
 int main(){
     int arr[] = {70,46,65,92,15,3};
+    
     // int arr[] = {92,70,65,46,15,3}; // Worst Case
     // int arr[] = {3,15,46,65,70,92}; // Best Case
     int n = sizeof(arr) / sizeof(arr[0]);
     SelectSort(arr,n);
+
+    return 0;
 }

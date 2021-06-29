@@ -3,8 +3,8 @@
 ## Index  
 * Stacks  
 * Queues  
-<!-- * Linked-List   -->
-<!-- * Graphs   -->
+* Linked-List
+* Graphs  
 * Trees  
 * Heaps  
 <!-- * Hash Map   -->

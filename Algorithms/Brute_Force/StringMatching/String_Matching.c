@@ -29,4 +29,5 @@ int main(){
     scanf("%s",pattern);
     printf("\nPattern found at %d\n",BruteForceStringMatch(text,pattern));
     
+    return 0;
 }

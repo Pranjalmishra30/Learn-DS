@@ -1,5 +1,6 @@
 #include<stdio.h>
 # define max 10
+
 int V,adj_mat[max][max],visited[max],popOrder[max];
 int x =0;
 
@@ -13,7 +14,6 @@ void dfs(int vertex){
             popOrder[x++] = i;
         }
     }
-
 }
 
 int main(){
@@ -39,5 +39,6 @@ int main(){
     for(int i=0;i<V;i++){
         printf("%d ",popOrder[i]);
     }
-
+    
+    return 0;
 }

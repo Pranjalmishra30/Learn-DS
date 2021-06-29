@@ -65,9 +65,5 @@ int main(){
     printf("BFS ordering: "); 
     BFS(X);
 
-
-    
-
-
-
+    return 0;
 }
