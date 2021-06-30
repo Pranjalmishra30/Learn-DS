@@ -4,9 +4,9 @@ Breadth-first search (BFS) is an algorithm for traversing or searching tree or g
 
 It uses the opposite strategy of DFS, which instead explores the node branch as far as possible before being forced to backtrack and expand other nodes.
 
-    BFS can be solved using the adjacency matrix or adjacency list.  
-    V = Num of vertices & E = Num of edges. 
+BFS can be solved using the adjacency matrix or adjacency list.  
+V = Num of vertices & E = Num of edges. 
 
-    Time Complexity:
-    Adj Mat: O(V^2)  
-    Adj Lst: O(V+E) 
+Time Complexity:
+Adj Mat: O( V<sup>2</sup> )  
+Adj Lst: O( V+E ) 
