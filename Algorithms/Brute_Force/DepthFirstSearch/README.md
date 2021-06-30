@@ -5,9 +5,9 @@ Depth First search (DFS) is an algorithm for traversing or searching tree or gra
 DFS can be solved using the adjacency matrix or adjacency list.  
 V = Num of vertices & E = Num of edges. 
 
-Time Complexity:
-Adj Mat: O( V<sup>2</sup> )  
-Adj Lst: O( V+E )  
+Time Complexity:  
+Adj Mat:  O( V<sup>2</sup> )  
+Adj List: O( V+E )  
 
 
     
