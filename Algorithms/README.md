@@ -18,4 +18,7 @@ and finally **Extend** solution of smaller instance to obtain solution to origin
 This technique involves the following steps:  
 **Divide** the problem into some sub problem. **Conquer** the sub problem by calling it recursively until the sub problem solved. **Combine** the sub problem solution to obtain solution to original problem. 
 
-<!-- ## Transform and Conquer Algorithms   -->
+## Transform and Conquer Algorithms  
+## Dyanamic Programming  
+## Greedy algorithms  
+## Backtracking algorithms
