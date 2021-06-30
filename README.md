@@ -4,18 +4,18 @@ This repository contains commmon data structures and algorithms implemented in C
   
   
 ## Index  
-### Data Structures  
-1. [Stacks](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures/Stacks)  
-2. [Queues](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures/Queues)  
-3. [LinkedList](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures/LinkedList)  
+### [Data Structures](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures)  
+1. Stacks  
+2. Queues  
+3. LinkedList  
 4. Graphs  
-5. [Trees](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures/Trees)  
-6. [Heaps](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Data_Structures/Heaps)  
+5. Trees  
+6. Heaps  
 
-### Algorithms  
-1. [BruteForce](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Algorithms/Brute_Force)  
-2. [Decrease and Conquer](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Algorithms/Decrease_and_conquer)  
-3. [Divide and Conquer](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Algorithms/Divide_and_conquer)  
+### [Algorithms](https://github.com/Pranjalmishra30/Learn-DSA/tree/main/Algorithms)  
+1. BruteForce  
+2. Decrease and Conquer  
+3. Divide and Conquer  
 4. Transform and Conquer  
 5. Dyanamic Programming  
 6. Greedy algorithms  
