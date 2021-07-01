@@ -24,7 +24,10 @@ This repository contains commmon data structures and algorithms implemented in C
 
 ## References  
 * [GFG](https://www.geeksforgeeks.org/data-structures/)  
-* [Programwiz](https://www.programiz.com/dsa)
+* [Programwiz](https://www.programiz.com/dsa)  
+
+[![Image](https://img.shields.io/badge/Developer-Pranjal%20Mishra-blue)](https://github.com/Pranjalmishra30)
+
 
 
 
