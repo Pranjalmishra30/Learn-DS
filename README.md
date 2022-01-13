@@ -1,6 +1,6 @@
 # Learn-DSA  
 Data structures and Algorithms are a fundamental part of programming. Its an essential part of any developer's toolbox. It allows us to write better and efficient code.   
-This repository contains commmon data structures and algorithms implemented in C.
+This repository contains commmon data structures and algorithms implemented in C and C++.
   
   
 ## Index  
